@@ -94,7 +94,7 @@ ggsave("survival_plot.png",
        height = 5,
        dpi = 300)
 # --------------------------------------------
-# 5. Statistical Analysis
+# Statistical Analysis
 # --------------------------------------------
 
 # Global log-rank test (are any groups different?)
@@ -102,7 +102,7 @@ surv_diff <- survdiff(surv_obj ~ Treatment, data = data)
 print(surv_diff)
 
 # --------------------------------------------
-# 6. Pairwise Comparisons (Log-Rank Test)
+# Pairwise Comparisons (Log-Rank Test)
 # --------------------------------------------
 
 # Perform pairwise log-rank tests with Bonferroni correction
