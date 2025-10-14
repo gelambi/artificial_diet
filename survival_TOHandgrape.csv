@@ -1,0 +1,841 @@
+insectID,plant,instar,day,status
+1,grape,1st instar,0,0
+2,grape,1st instar,0,0
+3,grape,1st instar,0,0
+4,grape,1st instar,0,0
+5,grape,1st instar,0,0
+6,grape,1st instar,0,0
+7,grape,1st instar,0,0
+8,grape,1st instar,0,0
+9,grape,1st instar,0,0
+10,grape,1st instar,0,0
+11,grape,1st instar,0,0
+12,grape,1st instar,0,0
+13,grape,1st instar,0,0
+14,grape,1st instar,0,0
+15,grape,1st instar,0,0
+16,grape,1st instar,0,0
+17,grape,1st instar,0,0
+18,grape,1st instar,0,0
+19,grape,1st instar,0,0
+20,grape,1st instar,0,0
+21,grape,1st instar,0,0
+22,grape,1st instar,0,0
+23,grape,1st instar,0,0
+24,grape,1st instar,0,0
+25,grape,1st instar,0,0
+26,grape,1st instar,0,0
+27,grape,1st instar,0,0
+28,grape,1st instar,0,0
+29,grape,1st instar,0,0
+30,grape,1st instar,0,0
+1,grape,1st instar,7,0
+2,grape,1st instar,7,0
+3,grape,1st instar,7,0
+4,grape,1st instar,7,0
+5,grape,1st instar,7,0
+6,grape,1st instar,7,0
+7,grape,1st instar,7,0
+8,grape,1st instar,7,0
+9,grape,1st instar,7,0
+10,grape,1st instar,7,0
+11,grape,1st instar,7,0
+12,grape,1st instar,7,0
+13,grape,1st instar,7,0
+14,grape,1st instar,7,0
+15,grape,1st instar,7,0
+16,grape,1st instar,7,0
+17,grape,1st instar,7,0
+18,grape,1st instar,7,0
+19,grape,1st instar,7,0
+20,grape,1st instar,7,0
+21,grape,1st instar,7,0
+22,grape,1st instar,7,0
+23,grape,1st instar,7,0
+24,grape,1st instar,7,0
+25,grape,1st instar,7,0
+26,grape,1st instar,7,0
+27,grape,1st instar,7,0
+28,grape,1st instar,7,1
+29,grape,1st instar,7,1
+30,grape,1st instar,7,1
+1,grape,1st instar,14,0
+2,grape,1st instar,14,0
+3,grape,1st instar,14,0
+4,grape,1st instar,14,0
+5,grape,1st instar,14,0
+6,grape,1st instar,14,0
+7,grape,1st instar,14,0
+8,grape,1st instar,14,0
+9,grape,1st instar,14,0
+10,grape,1st instar,14,0
+11,grape,1st instar,14,0
+12,grape,1st instar,14,0
+13,grape,2nd instar,14,0
+14,grape,2nd instar,14,0
+15,grape,2nd instar,14,0
+16,grape,2nd instar,14,0
+17,grape,2nd instar,14,0
+18,grape,2nd instar,14,0
+19,grape,2nd instar,14,0
+20,grape,2nd instar,14,0
+21,grape,2nd instar,14,0
+22,grape,2nd instar,14,0
+23,grape,2nd instar,14,0
+24,grape,2nd instar,14,0
+25,grape,2nd instar,14,0
+26,grape,2nd instar,14,0
+27,grape,1st instar,14,1
+28,grape,1st instar,14,1
+29,grape,1st instar,14,1
+30,grape,1st instar,14,1
+1,grape,2nd instar,21,0
+2,grape,2nd instar,21,0
+3,grape,2nd instar,21,0
+4,grape,2nd instar,21,0
+5,grape,2nd instar,21,0
+6,grape,2nd instar,21,0
+7,grape,2nd instar,21,0
+8,grape,2nd instar,21,0
+9,grape,2nd instar,21,0
+10,grape,2nd instar,21,0
+11,grape,2nd instar,21,0
+12,grape,2nd instar,21,0
+13,grape,2nd instar,21,0
+14,grape,2nd instar,21,0
+15,grape,2nd instar,21,0
+16,grape,2nd instar,21,0
+17,grape,2nd instar,21,0
+18,grape,2nd instar,21,0
+19,grape,2nd instar,21,0
+20,grape,2nd instar,21,0
+21,grape,2nd instar,21,0
+22,grape,2nd instar,21,0
+23,grape,2nd instar,21,0
+24,grape,2nd instar,21,0
+25,grape,2nd instar,21,0
+26,grape,2nd instar,21,1
+27,grape,1st instar,21,1
+28,grape,1st instar,21,1
+29,grape,1st instar,21,1
+30,grape,1st instar,21,1
+1,grape,3rd instar,28,0
+2,grape,3rd instar,28,0
+3,grape,3rd instar,28,0
+4,grape,3rd instar,28,0
+5,grape,3rd instar,28,0
+6,grape,3rd instar,28,0
+7,grape,3rd instar,28,0
+8,grape,3rd instar,28,0
+9,grape,3rd instar,28,0
+10,grape,2nd instar,28,0
+11,grape,2nd instar,28,0
+12,grape,2nd instar,28,0
+13,grape,2nd instar,28,0
+14,grape,2nd instar,28,0
+15,grape,2nd instar,28,0
+16,grape,2nd instar,28,0
+17,grape,2nd instar,28,0
+18,grape,2nd instar,28,0
+19,grape,2nd instar,28,0
+20,grape,2nd instar,28,0
+21,grape,2nd instar,28,0
+22,grape,2nd instar,28,0
+23,grape,2nd instar,28,0
+24,grape,2nd instar,28,1
+25,grape,2nd instar,28,1
+26,grape,2nd instar,28,1
+27,grape,1st instar,28,1
+28,grape,1st instar,28,1
+29,grape,1st instar,28,1
+30,grape,1st instar,28,1
+1,grape,3rd instar,35,0
+2,grape,3rd instar,35,0
+3,grape,3rd instar,35,0
+4,grape,3rd instar,35,0
+5,grape,3rd instar,35,0
+6,grape,3rd instar,35,0
+7,grape,3rd instar,35,0
+8,grape,3rd instar,35,0
+9,grape,3rd instar,35,0
+10,grape,3rd instar,35,0
+11,grape,3rd instar,35,0
+12,grape,3rd instar,35,0
+13,grape,3rd instar,35,0
+14,grape,3rd instar,35,0
+15,grape,3rd instar,35,0
+16,grape,3rd instar,35,0
+17,grape,3rd instar,35,0
+18,grape,3rd instar,35,0
+19,grape,3rd instar,35,0
+20,grape,3rd instar,35,0
+21,grape,3rd instar,35,0
+22,grape,3rd instar,35,0
+23,grape,3rd instar,35,0
+24,grape,2nd instar,35,1
+25,grape,2nd instar,35,1
+26,grape,2nd instar,35,1
+27,grape,1st instar,35,1
+28,grape,1st instar,35,1
+29,grape,1st instar,35,1
+30,grape,1st instar,35,1
+1,grape,3rd instar,42,0
+2,grape,3rd instar,42,0
+3,grape,3rd instar,42,0
+4,grape,3rd instar,42,0
+5,grape,3rd instar,42,0
+6,grape,3rd instar,42,0
+7,grape,3rd instar,42,0
+8,grape,3rd instar,42,0
+9,grape,3rd instar,42,0
+10,grape,3rd instar,42,0
+11,grape,3rd instar,42,0
+12,grape,3rd instar,42,0
+13,grape,3rd instar,42,0
+14,grape,3rd instar,42,0
+15,grape,3rd instar,42,0
+16,grape,3rd instar,42,0
+17,grape,3rd instar,42,0
+18,grape,3rd instar,42,0
+19,grape,3rd instar,42,0
+20,grape,3rd instar,42,0
+21,grape,3rd instar,42,0
+22,grape,3rd instar,42,1
+23,grape,3rd instar,42,1
+24,grape,2nd instar,42,1
+25,grape,2nd instar,42,1
+26,grape,2nd instar,42,1
+27,grape,1st instar,42,1
+28,grape,1st instar,42,1
+29,grape,1st instar,42,1
+30,grape,1st instar,42,1
+1,grape,4th instar,49,0
+2,grape,4th instar,49,0
+3,grape,4th instar,49,0
+4,grape,4th instar,49,0
+5,grape,3rd instar,49,0
+6,grape,3rd instar,49,0
+7,grape,3rd instar,49,0
+8,grape,3rd instar,49,0
+9,grape,3rd instar,49,0
+10,grape,3rd instar,49,0
+11,grape,3rd instar,49,0
+12,grape,3rd instar,49,0
+13,grape,3rd instar,49,0
+14,grape,3rd instar,49,0
+15,grape,3rd instar,49,0
+16,grape,3rd instar,49,0
+17,grape,3rd instar,49,0
+18,grape,3rd instar,49,0
+19,grape,3rd instar,49,1
+20,grape,3rd instar,49,1
+21,grape,3rd instar,49,1
+22,grape,3rd instar,49,1
+23,grape,3rd instar,49,1
+24,grape,2nd instar,49,1
+25,grape,2nd instar,49,1
+26,grape,2nd instar,49,1
+27,grape,1st instar,49,1
+28,grape,1st instar,49,1
+29,grape,1st instar,49,1
+30,grape,1st instar,49,1
+1,grape,4th instar,56,0
+2,grape,4th instar,56,0
+3,grape,4th instar,56,0
+4,grape,4th instar,56,0
+5,grape,4th instar,56,0
+6,grape,4th instar,56,0
+7,grape,4th instar,56,0
+8,grape,3rd instar,56,0
+9,grape,3rd instar,56,0
+10,grape,3rd instar,56,0
+11,grape,3rd instar,56,0
+12,grape,3rd instar,56,0
+13,grape,3rd instar,56,0
+14,grape,3rd instar,56,1
+15,grape,3rd instar,56,1
+16,grape,3rd instar,56,1
+17,grape,3rd instar,56,1
+18,grape,3rd instar,56,1
+19,grape,3rd instar,56,1
+20,grape,3rd instar,56,1
+21,grape,3rd instar,56,1
+22,grape,3rd instar,56,1
+23,grape,3rd instar,56,1
+24,grape,2nd instar,56,1
+25,grape,2nd instar,56,1
+26,grape,2nd instar,56,1
+27,grape,1st instar,56,1
+28,grape,1st instar,56,1
+29,grape,1st instar,56,1
+30,grape,1st instar,56,1
+1,grape,4th instar,63,0
+2,grape,4th instar,63,0
+3,grape,4th instar,63,0
+4,grape,4th instar,63,0
+5,grape,4th instar,63,0
+6,grape,4th instar,63,1
+7,grape,4th instar,63,1
+8,grape,3rd instar,63,1
+9,grape,3rd instar,63,1
+10,grape,3rd instar,63,1
+11,grape,3rd instar,63,1
+12,grape,3rd instar,63,1
+13,grape,3rd instar,63,1
+14,grape,3rd instar,63,1
+15,grape,3rd instar,63,1
+16,grape,3rd instar,63,1
+17,grape,3rd instar,63,1
+18,grape,3rd instar,63,1
+19,grape,3rd instar,63,1
+20,grape,3rd instar,63,1
+21,grape,3rd instar,63,1
+22,grape,3rd instar,63,1
+23,grape,3rd instar,63,1
+24,grape,2nd instar,63,1
+25,grape,2nd instar,63,1
+26,grape,2nd instar,63,1
+27,grape,1st instar,63,1
+28,grape,1st instar,63,1
+29,grape,1st instar,63,1
+30,grape,1st instar,63,1
+1,grape,4th instar,70,0
+2,grape,4th instar,70,0
+3,grape,4th instar,70,1
+4,grape,4th instar,70,1
+5,grape,4th instar,70,1
+6,grape,4th instar,70,1
+7,grape,4th instar,70,1
+8,grape,3rd instar,70,1
+9,grape,3rd instar,70,1
+10,grape,3rd instar,70,1
+11,grape,3rd instar,70,1
+12,grape,3rd instar,70,1
+13,grape,3rd instar,70,1
+14,grape,3rd instar,70,1
+15,grape,3rd instar,70,1
+16,grape,3rd instar,70,1
+17,grape,3rd instar,70,1
+18,grape,3rd instar,70,1
+19,grape,3rd instar,70,1
+20,grape,3rd instar,70,1
+21,grape,3rd instar,70,1
+22,grape,3rd instar,70,1
+23,grape,3rd instar,70,1
+24,grape,2nd instar,70,1
+25,grape,2nd instar,70,1
+26,grape,2nd instar,70,1
+27,grape,1st instar,70,1
+28,grape,1st instar,70,1
+29,grape,1st instar,70,1
+30,grape,1st instar,70,1
+1,grape,4th instar,77,1
+2,grape,4th instar,77,1
+3,grape,4th instar,77,1
+4,grape,4th instar,77,1
+5,grape,4th instar,77,1
+6,grape,4th instar,77,1
+7,grape,4th instar,77,1
+8,grape,3rd instar,77,1
+9,grape,3rd instar,77,1
+10,grape,3rd instar,77,1
+11,grape,3rd instar,77,1
+12,grape,3rd instar,77,1
+13,grape,3rd instar,77,1
+14,grape,3rd instar,77,1
+15,grape,3rd instar,77,1
+16,grape,3rd instar,77,1
+17,grape,3rd instar,77,1
+18,grape,3rd instar,77,1
+19,grape,3rd instar,77,1
+20,grape,3rd instar,77,1
+21,grape,3rd instar,77,1
+22,grape,3rd instar,77,1
+23,grape,3rd instar,77,1
+24,grape,2nd instar,77,1
+25,grape,2nd instar,77,1
+26,grape,2nd instar,77,1
+27,grape,1st instar,77,1
+28,grape,1st instar,77,1
+29,grape,1st instar,77,1
+30,grape,1st instar,77,1
+1,TOH,1st instar,0,0
+2,TOH,1st instar,0,0
+3,TOH,1st instar,0,0
+4,TOH,1st instar,0,0
+5,TOH,1st instar,0,0
+6,TOH,1st instar,0,0
+7,TOH,1st instar,0,0
+8,TOH,1st instar,0,0
+9,TOH,1st instar,0,0
+10,TOH,1st instar,0,0
+11,TOH,1st instar,0,0
+12,TOH,1st instar,0,0
+13,TOH,1st instar,0,0
+14,TOH,1st instar,0,0
+15,TOH,1st instar,0,0
+16,TOH,1st instar,0,0
+17,TOH,1st instar,0,0
+18,TOH,1st instar,0,0
+19,TOH,1st instar,0,0
+20,TOH,1st instar,0,0
+21,TOH,1st instar,0,0
+22,TOH,1st instar,0,0
+23,TOH,1st instar,0,0
+24,TOH,1st instar,0,0
+25,TOH,1st instar,0,0
+26,TOH,1st instar,0,0
+27,TOH,1st instar,0,0
+28,TOH,1st instar,0,0
+29,TOH,1st instar,0,0
+30,TOH,1st instar,0,0
+1,TOH,1st instar,7,0
+2,TOH,1st instar,7,0
+3,TOH,1st instar,7,0
+4,TOH,1st instar,7,0
+5,TOH,1st instar,7,0
+6,TOH,1st instar,7,0
+7,TOH,1st instar,7,0
+8,TOH,1st instar,7,0
+9,TOH,1st instar,7,0
+10,TOH,1st instar,7,0
+11,TOH,1st instar,7,0
+12,TOH,1st instar,7,0
+13,TOH,1st instar,7,0
+14,TOH,1st instar,7,0
+15,TOH,1st instar,7,0
+16,TOH,1st instar,7,0
+17,TOH,1st instar,7,0
+18,TOH,1st instar,7,0
+19,TOH,1st instar,7,0
+20,TOH,1st instar,7,0
+21,TOH,1st instar,7,0
+22,TOH,1st instar,7,0
+23,TOH,1st instar,7,0
+24,TOH,1st instar,7,1
+25,TOH,1st instar,7,1
+26,TOH,1st instar,7,1
+27,TOH,1st instar,7,1
+28,TOH,1st instar,7,1
+29,TOH,1st instar,7,1
+30,TOH,1st instar,7,1
+1,TOH,1st instar,14,0
+2,TOH,1st instar,14,0
+3,TOH,1st instar,14,0
+4,TOH,1st instar,14,0
+5,TOH,1st instar,14,0
+6,TOH,1st instar,14,0
+7,TOH,1st instar,14,0
+8,TOH,2nd instar,14,0
+9,TOH,2nd instar,14,0
+10,TOH,2nd instar,14,0
+11,TOH,2nd instar,14,0
+12,TOH,2nd instar,14,0
+13,TOH,2nd instar,14,0
+14,TOH,2nd instar,14,0
+15,TOH,2nd instar,14,0
+16,TOH,2nd instar,14,0
+17,TOH,2nd instar,14,0
+18,TOH,2nd instar,14,0
+19,TOH,2nd instar,14,0
+20,TOH,2nd instar,14,0
+21,TOH,2nd instar,14,0
+22,TOH,2nd instar,14,0
+23,TOH,1st instar,14,1
+24,TOH,1st instar,14,1
+25,TOH,1st instar,14,1
+26,TOH,1st instar,14,1
+27,TOH,1st instar,14,1
+28,TOH,1st instar,14,1
+29,TOH,1st instar,14,1
+30,TOH,1st instar,14,1
+1,TOH,2nd instar,21,0
+2,TOH,2nd instar,21,0
+3,TOH,2nd instar,21,0
+4,TOH,2nd instar,21,0
+5,TOH,2nd instar,21,0
+6,TOH,2nd instar,21,0
+7,TOH,2nd instar,21,0
+8,TOH,2nd instar,21,0
+9,TOH,2nd instar,21,0
+10,TOH,2nd instar,21,0
+11,TOH,2nd instar,21,0
+12,TOH,2nd instar,21,0
+13,TOH,2nd instar,21,0
+14,TOH,2nd instar,21,0
+15,TOH,2nd instar,21,0
+16,TOH,2nd instar,21,0
+17,TOH,2nd instar,21,0
+18,TOH,2nd instar,21,0
+19,TOH,2nd instar,21,0
+20,TOH,2nd instar,21,0
+21,TOH,2nd instar,21,0
+22,TOH,2nd instar,21,0
+23,TOH,1st instar,21,1
+24,TOH,1st instar,21,1
+25,TOH,1st instar,21,1
+26,TOH,1st instar,21,1
+27,TOH,1st instar,21,1
+28,TOH,1st instar,21,1
+29,TOH,1st instar,21,1
+30,TOH,1st instar,21,1
+1,TOH,2nd instar,28,0
+2,TOH,2nd instar,28,0
+3,TOH,2nd instar,28,0
+4,TOH,2nd instar,28,0
+5,TOH,2nd instar,28,0
+6,TOH,2nd instar,28,0
+7,TOH,2nd instar,28,0
+8,TOH,2nd instar,28,0
+9,TOH,2nd instar,28,0
+10,TOH,2nd instar,28,0
+11,TOH,2nd instar,28,0
+12,TOH,2nd instar,28,0
+13,TOH,2nd instar,28,0
+14,TOH,2nd instar,28,0
+15,TOH,2nd instar,28,0
+16,TOH,2nd instar,28,0
+17,TOH,2nd instar,28,0
+18,TOH,2nd instar,28,0
+19,TOH,2nd instar,28,0
+20,TOH,2nd instar,28,0
+21,TOH,2nd instar,28,0
+22,TOH,2nd instar,28,0
+23,TOH,1st instar,28,1
+24,TOH,1st instar,28,1
+25,TOH,1st instar,28,1
+26,TOH,1st instar,28,1
+27,TOH,1st instar,28,1
+28,TOH,1st instar,28,1
+29,TOH,1st instar,28,1
+30,TOH,1st instar,28,1
+1,TOH,2nd instar,35,0
+2,TOH,2nd instar,35,0
+3,TOH,2nd instar,35,0
+4,TOH,2nd instar,35,0
+5,TOH,2nd instar,35,0
+6,TOH,2nd instar,35,0
+7,TOH,2nd instar,35,0
+8,TOH,2nd instar,35,0
+9,TOH,2nd instar,35,0
+10,TOH,2nd instar,35,0
+11,TOH,2nd instar,35,0
+12,TOH,2nd instar,35,0
+13,TOH,2nd instar,35,0
+14,TOH,2nd instar,35,0
+15,TOH,2nd instar,35,0
+16,TOH,2nd instar,35,0
+17,TOH,2nd instar,35,0
+18,TOH,2nd instar,35,0
+19,TOH,2nd instar,35,0
+20,TOH,2nd instar,35,0
+21,TOH,2nd instar,35,0
+22,TOH,2nd instar,35,0
+23,TOH,1st instar,35,1
+24,TOH,1st instar,35,1
+25,TOH,1st instar,35,1
+26,TOH,1st instar,35,1
+27,TOH,1st instar,35,1
+28,TOH,1st instar,35,1
+29,TOH,1st instar,35,1
+30,TOH,1st instar,35,1
+1,TOH,3rd instar,42,0
+2,TOH,3rd instar,42,0
+3,TOH,3rd instar,42,0
+4,TOH,3rd instar,42,0
+5,TOH,3rd instar,42,0
+6,TOH,3rd instar,42,0
+7,TOH,3rd instar,42,0
+8,TOH,3rd instar,42,0
+9,TOH,3rd instar,42,0
+10,TOH,3rd instar,42,0
+11,TOH,3rd instar,42,0
+12,TOH,4th instar,42,0
+13,TOH,4th instar,42,0
+14,TOH,4th instar,42,0
+15,TOH,4th instar,42,0
+16,TOH,4th instar,42,0
+17,TOH,4th instar,42,0
+18,TOH,4th instar,42,0
+19,TOH,4th instar,42,0
+20,TOH,4th instar,42,0
+21,TOH,4th instar,42,0
+22,TOH,4th instar,42,0
+23,TOH,1st instar,42,1
+24,TOH,1st instar,42,1
+25,TOH,1st instar,42,1
+26,TOH,1st instar,42,1
+27,TOH,1st instar,42,1
+28,TOH,1st instar,42,1
+29,TOH,1st instar,42,1
+30,TOH,1st instar,42,1
+1,TOH,3rd instar,49,0
+2,TOH,3rd instar,49,0
+3,TOH,3rd instar,49,0
+4,TOH,3rd instar,49,0
+5,TOH,3rd instar,49,0
+6,TOH,4th instar,49,0
+7,TOH,4th instar,49,0
+8,TOH,4th instar,49,0
+9,TOH,4th instar,49,0
+10,TOH,4th instar,49,0
+11,TOH,unknown,49,1
+12,TOH,unknown,49,1
+13,TOH,unknown,49,1
+14,TOH,unknown,49,1
+15,TOH,unknown,49,1
+16,TOH,unknown,49,1
+17,TOH,unknown,49,1
+18,TOH,unknown,49,1
+19,TOH,unknown,49,1
+20,TOH,unknown,49,1
+21,TOH,unknown,49,1
+22,TOH,unknown,49,1
+23,TOH,1st instar,49,1
+24,TOH,1st instar,49,1
+25,TOH,1st instar,49,1
+26,TOH,1st instar,49,1
+27,TOH,1st instar,49,1
+28,TOH,1st instar,49,1
+29,TOH,1st instar,49,1
+30,TOH,1st instar,49,1
+1,TOH,3rd instar,56,0
+2,TOH,3rd instar,56,0
+3,TOH,3rd instar,56,0
+4,TOH,3rd instar,56,0
+5,TOH,3rd instar,56,0
+6,TOH,4th instar,56,0
+7,TOH,4th instar,56,0
+8,TOH,4th instar,56,0
+9,TOH,4th instar,56,1
+10,TOH,4th instar,56,1
+11,TOH,unknown,56,1
+12,TOH,unknown,56,1
+13,TOH,unknown,56,1
+14,TOH,unknown,56,1
+15,TOH,unknown,56,1
+16,TOH,unknown,56,1
+17,TOH,unknown,56,1
+18,TOH,unknown,56,1
+19,TOH,unknown,56,1
+20,TOH,unknown,56,1
+21,TOH,unknown,56,1
+22,TOH,unknown,56,1
+23,TOH,1st instar,56,1
+24,TOH,1st instar,56,1
+25,TOH,1st instar,56,1
+26,TOH,1st instar,56,1
+27,TOH,1st instar,56,1
+28,TOH,1st instar,56,1
+29,TOH,1st instar,56,1
+30,TOH,1st instar,56,1
+1,TOH,3rd instar,63,0
+2,TOH,3rd instar,63,0
+3,TOH,3rd instar,63,0
+4,TOH,3rd instar,63,0
+5,TOH,3rd instar,63,0
+6,TOH,4th instar,63,0
+7,TOH,4th instar,63,0
+8,TOH,4th instar,63,0
+9,TOH,4th instar,63,1
+10,TOH,4th instar,63,1
+11,TOH,unknown,63,1
+12,TOH,unknown,63,1
+13,TOH,unknown,63,1
+14,TOH,unknown,63,1
+15,TOH,unknown,63,1
+16,TOH,unknown,63,1
+17,TOH,unknown,63,1
+18,TOH,unknown,63,1
+19,TOH,unknown,63,1
+20,TOH,unknown,63,1
+21,TOH,unknown,63,1
+22,TOH,unknown,63,1
+23,TOH,1st instar,63,1
+24,TOH,1st instar,63,1
+25,TOH,1st instar,63,1
+26,TOH,1st instar,63,1
+27,TOH,1st instar,63,1
+28,TOH,1st instar,63,1
+29,TOH,1st instar,63,1
+30,TOH,1st instar,63,1
+1,TOH,3rd instar,70,0
+2,TOH,4th instar,70,0
+3,TOH,4th instar,70,0
+4,TOH,4th instar,70,0
+5,TOH,4th instar,70,0
+6,TOH,unknown,70,1
+7,TOH,unknown,70,1
+8,TOH,unknown,70,1
+9,TOH,unknown,70,1
+10,TOH,unknown,70,1
+11,TOH,unknown,70,1
+12,TOH,unknown,70,1
+13,TOH,unknown,70,1
+14,TOH,unknown,70,1
+15,TOH,unknown,70,1
+16,TOH,unknown,70,1
+17,TOH,unknown,70,1
+18,TOH,unknown,70,1
+19,TOH,unknown,70,1
+20,TOH,unknown,70,1
+21,TOH,unknown,70,1
+22,TOH,unknown,70,1
+23,TOH,1st instar,70,1
+24,TOH,1st instar,70,1
+25,TOH,1st instar,70,1
+26,TOH,1st instar,70,1
+27,TOH,1st instar,70,1
+28,TOH,1st instar,70,1
+29,TOH,1st instar,70,1
+30,TOH,1st instar,70,1
+1,TOH,4th instar,77,0
+2,TOH,4th instar,77,0
+3,TOH,4th instar,77,0
+4,TOH,4th instar,77,0
+5,TOH,unknown,77,1
+6,TOH,unknown,77,1
+7,TOH,unknown,77,1
+8,TOH,unknown,77,1
+9,TOH,unknown,77,1
+10,TOH,unknown,77,1
+11,TOH,unknown,77,1
+12,TOH,unknown,77,1
+13,TOH,unknown,77,1
+14,TOH,unknown,77,1
+15,TOH,unknown,77,1
+16,TOH,unknown,77,1
+17,TOH,unknown,77,1
+18,TOH,unknown,77,1
+19,TOH,unknown,77,1
+20,TOH,unknown,77,1
+21,TOH,unknown,77,1
+22,TOH,unknown,77,1
+23,TOH,1st instar,77,1
+24,TOH,1st instar,77,1
+25,TOH,1st instar,77,1
+26,TOH,1st instar,77,1
+27,TOH,1st instar,77,1
+28,TOH,1st instar,77,1
+29,TOH,1st instar,77,1
+30,TOH,1st instar,77,1
+1,TOH,4th instar,84,0
+2,TOH,4th instar,84,0
+3,TOH,4th instar,84,0
+4,TOH,4th instar,84,1
+5,TOH,unknown,84,1
+6,TOH,unknown,84,1
+7,TOH,unknown,84,1
+8,TOH,unknown,84,1
+9,TOH,unknown,84,1
+10,TOH,unknown,84,1
+11,TOH,unknown,84,1
+12,TOH,unknown,84,1
+13,TOH,unknown,84,1
+14,TOH,unknown,84,1
+15,TOH,unknown,84,1
+16,TOH,unknown,84,1
+17,TOH,unknown,84,1
+18,TOH,unknown,84,1
+19,TOH,unknown,84,1
+20,TOH,unknown,84,1
+21,TOH,unknown,84,1
+22,TOH,unknown,84,1
+23,TOH,1st instar,84,1
+24,TOH,1st instar,84,1
+25,TOH,1st instar,84,1
+26,TOH,1st instar,84,1
+27,TOH,1st instar,84,1
+28,TOH,1st instar,84,1
+29,TOH,1st instar,84,1
+30,TOH,1st instar,84,1
+1,TOH,4th instar,91,0
+2,TOH,4th instar,91,0
+3,TOH,4th instar,91,1
+4,TOH,4th instar,91,1
+5,TOH,unknown,91,1
+6,TOH,unknown,91,1
+7,TOH,unknown,91,1
+8,TOH,unknown,91,1
+9,TOH,unknown,91,1
+10,TOH,unknown,91,1
+11,TOH,unknown,91,1
+12,TOH,unknown,91,1
+13,TOH,unknown,91,1
+14,TOH,unknown,91,1
+15,TOH,unknown,91,1
+16,TOH,unknown,91,1
+17,TOH,unknown,91,1
+18,TOH,unknown,91,1
+19,TOH,unknown,91,1
+20,TOH,unknown,91,1
+21,TOH,unknown,91,1
+22,TOH,unknown,91,1
+23,TOH,1st instar,91,1
+24,TOH,1st instar,91,1
+25,TOH,1st instar,91,1
+26,TOH,1st instar,91,1
+27,TOH,1st instar,91,1
+28,TOH,1st instar,91,1
+29,TOH,1st instar,91,1
+30,TOH,1st instar,91,1
+1,TOH,4th instar,98,0
+2,TOH,4th instar,98,1
+3,TOH,4th instar,98,1
+4,TOH,4th instar,98,1
+5,TOH,unknown,98,1
+6,TOH,unknown,98,1
+7,TOH,unknown,98,1
+8,TOH,unknown,98,1
+9,TOH,unknown,98,1
+10,TOH,unknown,98,1
+11,TOH,unknown,98,1
+12,TOH,unknown,98,1
+13,TOH,unknown,98,1
+14,TOH,unknown,98,1
+15,TOH,unknown,98,1
+16,TOH,unknown,98,1
+17,TOH,unknown,98,1
+18,TOH,unknown,98,1
+19,TOH,unknown,98,1
+20,TOH,unknown,98,1
+21,TOH,unknown,98,1
+22,TOH,unknown,98,1
+23,TOH,1st instar,98,1
+24,TOH,1st instar,98,1
+25,TOH,1st instar,98,1
+26,TOH,1st instar,98,1
+27,TOH,1st instar,98,1
+28,TOH,1st instar,98,1
+29,TOH,1st instar,98,1
+30,TOH,1st instar,98,1
+1,TOH,4th instar,105,1
+2,TOH,4th instar,105,1
+3,TOH,4th instar,105,1
+4,TOH,4th instar,105,1
+5,TOH,unknown,105,1
+6,TOH,unknown,105,1
+7,TOH,unknown,105,1
+8,TOH,unknown,105,1
+9,TOH,unknown,105,1
+10,TOH,unknown,105,1
+11,TOH,unknown,105,1
+12,TOH,unknown,105,1
+13,TOH,unknown,105,1
+14,TOH,unknown,105,1
+15,TOH,unknown,105,1
+16,TOH,unknown,105,1
+17,TOH,unknown,105,1
+18,TOH,unknown,105,1
+19,TOH,unknown,105,1
+20,TOH,unknown,105,1
+21,TOH,unknown,105,1
+22,TOH,unknown,105,1
+23,TOH,1st instar,105,1
+24,TOH,1st instar,105,1
+25,TOH,1st instar,105,1
+26,TOH,1st instar,105,1
+27,TOH,1st instar,105,1
+28,TOH,1st instar,105,1
+29,TOH,1st instar,105,1
+30,TOH,1st instar,105,1
