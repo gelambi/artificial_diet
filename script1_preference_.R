@@ -106,79 +106,6 @@ data_alive <- data_survival_filtered %>%
   )
 glimpse(data_alive)
 
-# --------------------------------------------
-# GLMM, third instar
-# --------------------------------------------
-
-# Fit Gaussian GLMM
-model_gaussian <- glmmTMB(
-  food_eaten_cum ~ treatment * day + (1 | insectID),
-  data = data_alive,
-  family = gaussian()
-)
-summary(model_gaussian)
-Anova(model_gaussian)
-
-# Check residual assumptions
-res_gaussian <- simulateResiduals(model_gaussian)
-plot(res_gaussian)               # Visual check
-testResiduals(res_gaussian)     # Formal tests (normality, dispersion, etc.)
-
-# Log-transform the response to reduce skew
-data_alive$log_food <- log(data_alive$food_eaten_cum_adj)
-
-# Fit Gaussian GLMM
-model_gaussian <- glmmTMB(
-  log_food ~ treatment * day + (1 | insectID),
-  data = data_alive,
-  family = gaussian()
-)
-summary(model_gaussian)
-Anova(model_gaussian)
-# Check residual assumptions
-res_gaussian <- simulateResiduals(model_gaussian)
-plot(res_gaussian)               # Visual check, does not improve much. 
-testResiduals(res_gaussian)
-
-
-# Gaussian assumptions are not met, fit Gamma GLMM
-# Fit Gamma GLMM with log link
-model_gamma <- glmmTMB(
-  food_eaten_cum_adj ~ treatment * day + (1 | insectID),
-  data = data_alive,
-  family = Gamma(link = "log")
-)
-
-# Summary and diagnostics
-summary(model_gamma)
-Anova(model_gamma)
-check_model(model_gamma)
-
-# Simulate residuals
-res_gamma <- simulateResiduals(model_gamma)
-plot(res_gamma) # it does not look great but I don't know if that matters in Gamma
-
-# Generate and plot model predictions (with CIs)
-
-preds <- ggpredict(model_gamma, terms = c("day", "treatment"), bias_correction = TRUE) %>%
-  rename(treatment = group)
-
-# Plot: Raw data + model predictions with ribbons
-ggplot() +
-  geom_point(data = data_alive,
-             aes(x = day, y = food_eaten_cum_adj, color = treatment),
-             alpha = 0.5, size = 1.5) +
-  geom_line(data = preds,
-            aes(x = x, y = predicted, color = treatment),
-            linewidth = 1.2) +
-  geom_ribbon(data = preds,
-              aes(x = x, ymin = conf.low, ymax = conf.high, fill = treatment),
-              alpha = 0.2, color = NA) +
-  labs(x = "Day", y = "Cumulative Food Eaten (adj)",
-       color = "Treatment", fill = "Treatment") +
-  theme_minimal(base_size = 14) +
-  facet_wrap(~treatment, scales = "free_y")
-
 ### Since the cumulative metric is problematic, I will calculate the avrage eaten per day. 
 
 # --------------------------------------------
@@ -217,7 +144,7 @@ glimpse(avg_food)
 avg_food <- avg_food %>%
   filter(avg_food_per_day < 500)
 
-# Gamma GLM (means per insect)
+# GLM (means per insect)
 mod_gamma <- glmmTMB(
   avg_food_per_day_gamma ~ treatment,
   data   = avg_food

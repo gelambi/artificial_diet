@@ -9,7 +9,6 @@ This repository contains scripts that simulate and analyze data from artificial 
 Simulates feeding behavior, survival, and growth of 3rd instar, 4th instar, and adult *L. delicatula* under two dietary conditions: artificial diets (A vs. B) and ailanthone treatment (control vs. ailanthone). 
 
 This script:
-- Generates two datasets reflecting different diet types
 - Fits generalized linear models using the `glmmTMB` package
 - Conducts estimated marginal means and pairwise comparisons with `emmeans`
 
