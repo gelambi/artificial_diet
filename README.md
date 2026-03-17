@@ -7,7 +7,7 @@ This repository contains data and scripts from artificial diet experiments with 
 ### `script1_preference.R`
 
 **Description:**\
-Analyzes feeding behavior by quantifying diet consumption in third- and fourth-instar nymphs across artificial diet treatments (with and without ailanthone). The script processes raw diet data, calculates per-individual food intake, fits generalized linear models to test treatment effects, and generates publication-ready figures with estimated marginal means and significance groupings.
+Analyzes feeding behavior by quantifying diet consumption in third- and fourth-instar nymphs across artificial diet treatments (with and without ailanthone). The script processes raw diet data, calculates per-individual food intake, fits generalized linear models to test treatment effects, and generates figures.
 
 **Data used:** `clean_data_liquitdiet.csv`
 
