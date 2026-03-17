@@ -1,26 +1,30 @@
-# Research Toward Development and Evaluation of Artificial Liquid Diets for Xenobiotic Delivery in *Lycorma delicatula* (Spotted Lanternfly)
+# Development of an artificial liquid diet for allelochemical delivery in *Lycorma delicatula*
 
-This repository contains scripts that simulate and analyze data from artificial diet experiments with *L. delicatula*. The analyses focus on feeding preference, survival, and growth responses across life stages and dietary treatments.
+This repository contains data and scripts from artificial diet experiments with *L. delicatula*. The analyses focus on feeding preference and survival across life stages and dietary treatments. All the analyses were performed in R v. 4.4.2.
 
 ## Contents
 
 ### `script1_preference.R`
 
-Simulates feeding behavior, survival, and growth of 3rd instar, 4th instar, and adult *L. delicatula* under two dietary conditions: artificial diets (A vs. B) and ailanthone treatment (control vs. ailanthone). 
+**Description:**\
+Analyzes feeding behavior by quantifying diet consumption in third- and fourth-instar nymphs across artificial diet treatments (with and without ailanthone). The script processes raw diet data, calculates per-individual food intake, fits generalized linear models to test treatment effects, and generates publication-ready figures with estimated marginal means and significance groupings.
 
-This script:
-- Fits generalized linear models using the `glmmTMB` package
-- Conducts estimated marginal means and pairwise comparisons with `emmeans`
+**Data used:** `clean_data_liquitdiet.csv`
 
-### `script2_survivalcurves.R`
+------------------------------------------------------------------------
 
-Simulates individual-level survival data for insects exposed to four diets (Diet A, Diet B, Tree of Heaven, Grapes) over a 14-day period. 
+### `script2_survival_curves.R`
 
-This script:
-- Uses the `survival` and `survminer` packages for modeling and visualization
-- Generates synthetic survival data with right-censoring
-- Fits Kaplan-Meier survival curves and visualizes them
-- Performs log-rank tests and pairwise survival comparisons
+**Description:**\
+Analyzes survival of *L. delicatula* nymphs under artificial diet treatments and host plant conditions. The script processes survival data, corrects instar transitions using molting information, fits Kaplan–Meier survival curves, performs log-rank and pairwise comparisons, and generates survival curves and proportional survival bar plots across time.
 
----
+**Data used:** `clean_data_liquitdiet.csv` and `survival_TOHandgrape.csv`
 
+------------------------------------------------------------------------
+
+### `script3_pilot_study.R`
+
+**Description:**\
+Analyzes mass change in response to ailanthone treatment and evaporation controls. The script tests differences between evaporation and feeding effects, and evaluates the interaction between ailanthone treatment and life stage on mass difference. It fits generalized linear models, performs post hoc comparisons, and generates figures summarizing treatment effects.
+
+**Data used:** `clean_data_pilot.csv`

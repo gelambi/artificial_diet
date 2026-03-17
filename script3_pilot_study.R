@@ -1,8 +1,23 @@
+# ======================================================================
+# SCRIPT 3 - PILOT STUDY
+# ======================================================================
+  # This script analyzes mass difference in *Lycorma delicatula* under two
+  # related experimental questions. First, it tests whether mass change differs
+  # between evaporation controls and insect feeding samples. Second, it evaluates
+  # the effects of ailanthone treatment, life stage, and their interaction on
+  # mass difference after excluding control-only observations.
+  #
+  # The script fits generalized linear mixed models, checks model diagnostics,
+  # calculates estimated marginal means and pairwise contrasts, and generates
+  # publication-ready figures showing treatment effects on mass difference.
+# ======================================================================
+# Author: Mariana Gelambi (gelambi@vt.edu)
+# Last updated: 03-17-2026
 
 # Clear Workspace
 rm(list = ls())
 
-# Load libraries
+# Load required packages
 library(dplyr)
 library(glmmTMB)
 library(car)
@@ -22,7 +37,7 @@ library(forcats)
 # Read data
 # --------------------------------------------
 
-data <- read.csv("2023_data.csv") %>%
+data <- read.csv("clean_data_pilot.csv") %>%
   mutate(
     ailanthone = dplyr::recode(as.character(ailanthone),
                                "Y" = "Ailanthone",
@@ -114,7 +129,7 @@ evap_plot
 
 # Save plot
 ggsave(
-  filename = "mass_evap_vs_insect.jpg",
+  filename = "Figure_S1.jpg",
   plot = evap_plot,
   width = 4,
   height = 4,
@@ -235,7 +250,7 @@ mass_plot <- ggplot(data, aes(x = ailanthone)) +
 
 mass_plot
 
-ggsave(file="mass_plot_supplement.png", 
+ggsave(file="Figure_S2.jpg", 
        plot=mass_plot,
        width=6, height=4, units="in", dpi=500)
 
