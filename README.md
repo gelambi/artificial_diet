@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19074840.svg)](https://doi.org/10.5281/zenodo.19074840)
+
 # Development of an artificial liquid diet for allelochemical delivery in *Lycorma delicatula*
 
 This repository contains data and scripts from artificial diet experiments with *L. delicatula*. The analyses focus on feeding preference and survival across life stages and dietary treatments. All the analyses were performed in R v. 4.4.2.
